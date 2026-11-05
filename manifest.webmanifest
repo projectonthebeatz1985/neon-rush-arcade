@@ -1,8 +1,8 @@
 {
   "id": ".",
-  "name": "Neon Rush Arcade",
+  "name": "Neon Rush Arcade by Project Designs",
   "short_name": "Neon Rush",
-  "description": "Dodge obstacles, collect coins, and beat your high score.",
+  "description": "A fast neon arcade game created by Project Designs.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
